@@ -1,0 +1,3 @@
+{'user_id':'u_2510202325', 'user_name':'sys-admin', 'user_password':'adminpw0000', 'user_register_time':'24-10-2023_21:03:05', 'user_role':'admin', 'user_email':'admin@email.com', 'user_mobile':'0400000404'}
+
+{'user_id':'u_6334690194', 'user_name':'azzia1', 'user_password':'loginpw0000', 'user_register_time':'26-10-2023_21:25:50', 'user_role':'customer', 'user_email':'azzia1@email.com', 'user_mobile':'0404040404'}
